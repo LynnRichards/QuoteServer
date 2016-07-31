@@ -90,4 +90,4 @@ app.delete('/quote/:id', function(req, res) {
   res.json(true);
 });
 
-app.listen(process.env.PORT || 3412);
+app.listen(process.env.PORT || 80);

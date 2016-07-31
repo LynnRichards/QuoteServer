@@ -1,1 +1,1 @@
-web: node quoteserver.js
+web: node index.js

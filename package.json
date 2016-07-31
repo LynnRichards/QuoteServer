@@ -1,11 +1,29 @@
 {
-  "name": "first-express-app",
-  "description": "an example of using Express",
-  "private" : true,
-  "version": "0.0.1",
+  "name": "QuoteServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quoteserver.js",
   "dependencies": {
-    "express": "3.x",
-    "nedb":
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "nedb": "^1.8.0"
   },
-  "main" : "quote"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynnRichards/QuoteServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnRichards/QuoteServer/issues"
+  },
+  "engines": {
+    "node": "6.2.2"
+  },
+  "homepage": "https://github.com/LynnRichards/QuoteServer#readme"
 }

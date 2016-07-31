@@ -1,0 +1,3 @@
+{"_id":"1","author":"Audrey Hepburn","text":"Nothing is impossible, the word itself says 'I'm possible'!","createdAt":{"$$date":1469949456912},"updatedAt":{"$$date":1469949456912}}
+{"_id":"2","author":"Yayo","text":"Action before motivation","createdAt":{"$$date":1469949456916},"updatedAt":{"$$date":1469949456916}}
+{"_id":"3","author":"Lynn","text":"Be good","createdAt":{"$$date":1469949575649},"updatedAt":{"$$date":1469949575649}}

@@ -1,6 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
-var nedb = require('Nedb');
+var nedb = require('nedb');
 var app = express();
 
     app.use(bodyParser.json()); // see: http://expressjs.com/api.html#req.body

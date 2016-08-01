@@ -4,6 +4,7 @@ var nedb = require('nedb');
 var app = express();
 
     app.use(bodyParser.json()); // see: http://expressjs.com/api.html#req.body
+
     app.use(bodyParser.urlencoded({
         extended: true
     }));
